@@ -29,7 +29,7 @@ Dashboard_Page::headerTemplate('Clientes');
             </tr>
             <tr>
                 <td>Jonathan</td>
-                <td>Paleta</td>
+                <td>lollypop Coso</td>
                 <td>$7.00</td>
             </tr>
         </tbody>
