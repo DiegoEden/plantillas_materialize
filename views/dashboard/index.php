@@ -29,7 +29,7 @@ Dashboard_Page::headerTemplate('Clientes');
             </tr>
             <tr>
                 <td>Jonathan</td>
-                <td>Lollipop</td>
+                <td>Paleta de sombria 904</td>
                 <td>$7.00</td>
             </tr>
         </tbody>
